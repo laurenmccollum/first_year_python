@@ -107,7 +107,7 @@ mass_sun = 1.98892e30
 Earth = Body(name="Earth",
   x_vec = np.array([1.496e11,0]),
   v_vec = np.array([0,29.78e3]),
-  mass = mass_sun,
+  mass =  5.9742e24,
   colour = "green")
 
 mom_bodies = [Earth]
